@@ -9,7 +9,7 @@
 
 ## 🏗️ Vision & Strategy
 
-The **BUSUP-DS** is more than just a component library; it is the visual source of truth for all digital products at **BUSUP**. Developed by **Victoria Carneo**, this system bridges the gap between Figma designs and production code through automated AI workflows.
+The **BUSUP-DS** is more than just a component library; it is the visual source of truth for all digital products at **BUSUP**. Developed by **Product Team**, this system bridges the gap between Figma designs and production code through automated AI workflows.
 
 ---
 
