@@ -13,19 +13,6 @@ The **BUSUP-DS** is more than just a component library; it is the visual source 
 
 ---
 
-## 🎨 Global Design Tokens
-
-These tokens are synchronized directly from Figma via MCP automation, ensuring that our colors and styles remain consistent across platforms.
-
-| Token Name | Preview | HEX Code | UX Usage |
-| :--- | :---: | :--- | :--- |
-| `color.primary.300` | 🟩 | `#00A355` | Primary actions and active states |
-| `color.secondary.300` | 🟧 | `#E05243` | Secondary actions and active states |
-| `color.neutral.100` | ⬜ | `#F8F9FA` | Backgrounds, cards, and elevation |
-| `color.neutral.400` | ⬛ | `#1A1A1A` | Titles and primary body copy |
-
----
-
 ## 🛠️ Intelligent Workflow
 
 The **BUSUP-DS** ecosystem operates on a modern, AI-driven pipeline:
@@ -37,9 +24,9 @@ The **BUSUP-DS** ecosystem operates on a modern, AI-driven pipeline:
 
 ## 📅 Roadmap
 - [x] Initial color tokens extraction.
-- [ ] Typography and scale definitions.
+- [x] Typography and scale definitions.
 - [ ] Iconography library sync.
-- [ ] Component documentation (Storybook).
+- [ ] Component documentation.
 
 ---
 *Maintained with precision by the **Product Team**.*
